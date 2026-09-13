@@ -36,6 +36,10 @@ Pizza Types
 
 ---
 
+### Dataset Relationship Preview
+<img width="1201" height="593" alt="Screenshot 2026-09-09 152705" src="https://github.com/user-attachments/assets/35dcbc9b-898c-4c75-b8af-d4b1ba1b7062" />
+
+---
 ## 3. Methodology
 
 The project followed a structured analytics workflow:
@@ -47,8 +51,14 @@ The project followed a structured analytics workflow:
 5. **Interactivity** – Added slicers for Month, Category, Pizza Size, and Pizza Name to enable dynamic analysis.
 
 ---
+## 4. Dashboard Preview
+<img width="980" height="549" alt="Screenshot 2026-09-10 003306" src="https://github.com/user-attachments/assets/6f1d81a2-353d-45e0-9716-9e57e9703139" />
+<img width="977" height="548" alt="Screenshot 2026-09-10 003344" src="https://github.com/user-attachments/assets/97c20ec6-e15d-4d6e-940b-ffb492833b96" />
+<img width="984" height="546" alt="Screenshot 2026-09-10 003409" src="https://github.com/user-attachments/assets/8f843506-40f8-481c-9903-6ce4541766b1" />
+<img width="984" height="552" alt="Screenshot 2026-09-10 003429" src="https://github.com/user-attachments/assets/9c2349f8-2d59-461a-a95e-7da84ae99661" />
 
-## 4. Key Calculations & KPIs
+---
+## 5. Key Calculations & KPIs
 
 ### Total Revenue
 
@@ -105,7 +115,7 @@ DIVIDE(
 
 ---
 
-## 5. Detailed Business Observations
+## 6. Detailed Business Observations
 
 * **Large-size pizzas** are a major contributor to overall revenue, indicating an opportunity for targeted size-upgrade offers.
 * The **Classic category** demonstrates strong sales performance and represents an important category for maintaining revenue.
@@ -115,7 +125,7 @@ DIVIDE(
 
 ---
 
-## 6. Recommendations
+## 7. Recommendations
 
 * Promote **larger-size upgrades and bundled offers** to increase Average Order Value.
 * Maintain sufficient inventory for **high-performing pizza types**.
@@ -126,7 +136,7 @@ DIVIDE(
 
 ---
 
-## 7. Conclusion
+## 8. Conclusion
 
 The Pizza Order Analysis Dashboard converts raw transactional data into a **business-focused analytical solution**. It provides a clear view of revenue, orders, product performance, category contribution, pizza sizes, and ordering patterns.
 
